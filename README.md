@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/your_username/repo_name">
-    <img src="images/gators.jpg" alt="Logo" width="150" height="150">
+    <img src="images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Forex Algorithmic Trading with Deep Reinforcement Learning</h3>
