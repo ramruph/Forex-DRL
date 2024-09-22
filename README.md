@@ -184,8 +184,4 @@ Project Link: [https://github.com/ramruph/Forex-DRL/]([https://github.com/ramrup
 * [Django Documentation](https://docs.djangoproject.com/en/stable/)
 * [Oanda API Documentation](https://developer.oanda.com/rest-live-v20/introduction/)
 
----
 
-### Thank you!
-
-You can expand on this template over time as you build out new features and technologies.
